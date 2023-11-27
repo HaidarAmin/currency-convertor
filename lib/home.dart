@@ -223,6 +223,10 @@ class _HomeState extends State<Home> {
                   const SizedBox(
                     height: 50,
                   ),
+                  const Text(
+                    'Converted amount: ',
+                    style: TextStyle(fontSize: 32, color: Colors.white),
+                  ),
                   const SizedBox(
                     height: 30,
                   ),
